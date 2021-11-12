@@ -1,2 +1,2 @@
-# plantilla_xaringan
-Plantilla para presentaciones usando el paquete xaringan 
+# Presentaciones con xaringan
+Plantilla para presentaciones usando el paquete xaringan.
